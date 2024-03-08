@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PAPELERIA</string>
+    <string name="edtCopias">Cantidad de copias</string>
+    <string name="edtCliente">Cliente</string>
+    <string name="buttonCalcular">CALCULAR</string>
+    <string name="buttonNuevo">NUEVO</string>
+    <string name="buttonSalir">SALIR</string>
+</resources>
